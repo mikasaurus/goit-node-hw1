@@ -15,5 +15,6 @@
   },
   "dependencies": {
     "commander": "^11.1.0"
-  }
+  },
+  "type": "module"
 }
